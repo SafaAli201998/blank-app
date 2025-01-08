@@ -1,7 +1,4 @@
 streamlit
-shap
+numpy
 pandas
-pickle
-matplotlib.pyplot
-seaborn
-sklearn.metrics
+matplotlib
